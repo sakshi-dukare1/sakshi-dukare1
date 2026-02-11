@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakshi Dukare</h1>
-<h3 align="center">🚀 B.Tech IT Student | Aspiring Full-Stack Developer | Android Developer</h3>
+<h3 align="center">🚀 B.Tech IT Student | Aspiring Full-Stack Developer | SQL • DBMS • Java </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=25&center=true&vCenter=true&width=600&lines=Passionate+Developer;Android+Enthusiast;Full+Stack+Learner;Hackathon+Participant;Always+Learning+New+Things" />
@@ -44,10 +44,11 @@
 
 ---
 
-## 🌐 Connect With Me
+🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sakshi-dukare/">
+    <a href="sakshidukare.cse@gmail.com">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
