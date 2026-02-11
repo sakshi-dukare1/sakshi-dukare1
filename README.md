@@ -2,7 +2,7 @@
 <h3 align="center"> B.Tech IT Student | Aspiring Full-Stack Developer | SQL • DBMS • Java </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=25&center=true&vCenter=true&width=600&lines=Passionate+Developer;Android+Enthusiast;Full+Stack+Learner;Hackathon+Participant;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=25&center=true&vCenter=true&width=600&lines=Passionate+Developer;Android+Enthusiast;Full+Stack+Developer;Always+Learning+New+Things" />
 </p>
 
 ---
