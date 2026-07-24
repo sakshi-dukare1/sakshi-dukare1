@@ -9,7 +9,7 @@
 
  👩‍💻 About Me
 
-- 🎓 2nd Year B.Tech IT Student at **PICT Pune**
+- 🎓 3rd Year B.Tech IT Student at **PICT Pune**
 - 🎓 Diploma in Computer Engineering (95.37%)
 - 💡 Interested in Full-Stack Development & Android
 - 🏆 Poster Presentation Winner
